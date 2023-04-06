@@ -1,0 +1,13 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "compilerOptions": {
+        "strict": true,
+        "esModuleInterop": true,
+        "jsx": "react-jsx",
+        "target": "es2015",
+        "module": "ESNext",
+        "downlevelIteration": true
+    }
+}
